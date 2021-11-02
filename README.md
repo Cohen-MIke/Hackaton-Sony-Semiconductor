@@ -1,0 +1,2 @@
+# Hackaton-Sony-Semiconductor
+Sponsored by Sony Semiconductor as part of course: «Fundamentals of Digital Systems Design”. We were asked to build a Hardware accelerator (System Verilog) to get maximum clock-cycle reduction for  the specific task of image rotation compared to Software solution. We also implemented bonus features (optimizing the accelerator to the image type), integrated it into the open-source RISC-V processor using C script, used ModelSim for simulation and succeeded in 64 times reduction. All this earned us 3rd place in the competition.
